@@ -1,8 +1,8 @@
-                                                     🇧🇷  𝕭𝖊𝖒-𝖛𝖎𝖓𝖉𝖔 𝖆𝖔 𝖒𝖊𝖚 𝖕𝖊𝖗𝖋𝖎𝖑  🪽
+###      Bem-vindo ao meu perfil🪽
  
  
- 📖Estou cursando Bacharel em Sistemas de informação.
-### Conecte-se comigo:
+### 📖Estou cursando Bacharel em Sistemas de informação.
+### Conecte-se comigo
 
 <div>
   <a href="https://instagram.com/gabriel_vesal?igshid=OGQ5ZDc2ODk2ZA==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -10,7 +10,7 @@
 
   
   ###
-Estatísticas GitHub:
+### 📈Estatísticas GitHub
 </div>
 <div align="left">
 <img width="450em" alt="Status Github Gabriel" src="https://github-readme-stats.vercel.app/api?username=GabrielVesal&show_icons=true&theme=dracula" />
@@ -18,7 +18,7 @@ Estatísticas GitHub:
 
 
 ###
-Tecnologias
+### 💻Tecnologias
 <div>
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/python-5.svg">
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/c-1.svg"svg">
