@@ -1,8 +1,8 @@
-###      Bem-vindo ao meu perfil🪽
+###      🐺Bem-vindo ao meu perfil🪽
  
  
 ### 📖Estou cursando Bacharel em Sistemas de informação.
-### Conecte-se comigo
+### 📬Conecte-se comigo
 
 <div>
   <a href="https://instagram.com/gabriel_vesal?igshid=OGQ5ZDc2ODk2ZA==" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
