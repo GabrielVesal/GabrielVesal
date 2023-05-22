@@ -1,4 +1,4 @@
-###      🐺Bem-vindo ao meu perfil🪽
+###      🐺Bem-vindo ao meu perfil☕
  
  
 ### 📖Estou cursando Bacharel em Sistemas de informação.
@@ -22,7 +22,9 @@
 <div>
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/python-5.svg">
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/c-1.svg"svg">
-    <img height='50em' src="https://cdn.worldvectorlogo.com/logos/notion-logo-1.svg"svg">
+    <img height='50em' src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"svg">
+    <img height='50em' src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg"svg">
+    <img height='50em' src="https://cdn.worldvectorlogo.com/logos/notion-logo-1.svg"svg">                                                                                    
   </div>
  
  
