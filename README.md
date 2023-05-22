@@ -16,6 +16,8 @@ Estatísticas GitHub:
 <img width="450em" alt="Status Github Gabriel" src="https://github-readme-stats.vercel.app/api?username=GabrielVesal&show_icons=true&theme=dracula" />
 </div>
 
+
+###
 Tecnologias
 <div>
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/python-5.svg">
@@ -23,5 +25,7 @@ Tecnologias
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/notion-logo-1.svg"svg">
   </div>
  
+ 
+ ###
 ### ✍️Notas aleatorias do Dev
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
