@@ -10,7 +10,7 @@
 
   
   ###
-
+Estatísticas GitHub 
 </div>
 <div align="left">
 <img width="450em" alt="Status Github Gabriel" src="https://github-readme-stats.vercel.app/api?username=GabrielVesal&show_icons=true&theme=dracula" />
