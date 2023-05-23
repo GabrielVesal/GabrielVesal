@@ -11,26 +11,21 @@
   <a href="http://linkedin.com/in/gabrielvesal" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
   ###
-<details>
- <summary> <h3>📈Estatísticas GitHub</summary>
-    
-![](https://github-readme-stats.vercel.app/api?username=GabrielVesal&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=GabrielVesal&theme=tokyonight&hide_border=false)<br/>
-</details>
-
-
-###
-### 💻Tecnologias
+ ### 💻Tecnologias
 <div>
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/python-5.svg">
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/c-1.svg"svg">
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"svg">
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg"svg">
-    <img height='50em' src="https://cdn.worldvectorlogo.com/logos/notion-logo-1.svg"svg">                                                                                    
-  </div>
-  
+    <img height='50em' src="https://cdn.worldvectorlogo.com/logos/notion-logo-1.svg"svg">          
  
- 
- ###
-### ✍️Notas aleatorias do Dev
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
+<details>
+ <summary> <h3>📈Estatísticas GitHub</summary>
+    
+ <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=GabrielVesal&show_icons=true&theme=dracula&count_private=true">
+</details>
+
+
+###
+
+
