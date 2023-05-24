@@ -1,7 +1,7 @@
 ###      🐺Bem-vindo ao meu perfil☕
  
  
-### 📖Estou cursando Bacharel em Sistemas de informação.
+### 📖Estou cursando Bacharel em Sistemas de informação e aprendendo inglês.
 
 
 ### Conecte-se comigo
