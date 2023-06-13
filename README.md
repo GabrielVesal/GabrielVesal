@@ -26,6 +26,8 @@
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/c-1.svg"svg">
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg"svg">
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/github-icon-1.svg"svg">
+    <img height='50em' src="https://cdn.worldvectorlogo.com/logos/git-icon.svg"svg">
+    <img height='50em' src="https://cdn.worldvectorlogo.com/logos/figma-5.svg"svg">                                                                              
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/notion-logo-1.svg"svg">          
  
 
