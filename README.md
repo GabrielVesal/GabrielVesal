@@ -15,6 +15,7 @@
  <summary> <h3>Estatísticas GitHub</summary>
     
  <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=GabrielVesal&show_icons=true&theme=dracula&count_private=true">
+ <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=GabrielVesal&layout=compact&theme=dracula">
 </details>
  
  ### Tecnologias
