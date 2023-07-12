@@ -21,6 +21,11 @@
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/html-1.svg"svg">
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/python-5.svg">                                                                           
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/c-1.svg"svg">
+    <img height='50em' src="https://cdn.worldvectorlogo.com/logos/figma-5.svg"svg">
+
+ ### Productivy
+ <div>
+    <img height='50em' src="https://cdn.worldvectorlogo.com/logos/notion-1-1.svg"svg">
 
   ### connect with me
 
