@@ -22,7 +22,6 @@
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/python-5.svg">                                                                           
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/c-1.svg"svg">
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/premiere-pro-cc.svg"svg">
-    <img height='50em' src="https://cdn.worldvectorlogo.com/logos/adobe-xd-2.svg"svg">
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/after-effects-1.svg"svg">
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/figma-5.svg"svg">
 
