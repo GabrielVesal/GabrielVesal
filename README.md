@@ -1,7 +1,7 @@
 ###    Welcome to my profile!  
  
  
-### I am studying Bachelor of Information Systems, Rocketseat Explorer and learning English.
+### I am studying Bachelor of Information Systems and learning English.
 
  <div>
      <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=GabrielVesal&show_icons=true&theme=dracula&count_private=true">
