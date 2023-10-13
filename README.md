@@ -27,7 +27,7 @@
 
  ### Productivy
  <div>
-    <img height='50em' src="https://cdn.worldvectorlogo.com/logos/notion-1-1.svg"svg">
+    <img height='50em' src="https://cdn.worldvectorlogo.com/logos/excel-4.svg"svg">
 
   ### connect with me
 
