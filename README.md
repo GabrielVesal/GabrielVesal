@@ -17,12 +17,9 @@
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/css-3.svg">
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg">
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
-    <img height='50em' src="https://db.cs.uni-tuebingen.de/teaching/ws2223/sql-is-a-programming-language/logo.svg">
-    <img height='50em' src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
-    <img height='50em' src="https://bun.sh/logo.svg">    
+    <img height='50em' src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">   
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/c-1.svg"svg">
-    <img height='50em' src="https://cdn.worldvectorlogo.com/logos/python-5.svg">                                                                              
-    <img height='50em' src="https://cdn.worldvectorlogo.com/logos/aws-2.svg">                                                                           
+    <img height='50em' src="https://cdn.worldvectorlogo.com/logos/python-5.svg">                                                                                                                                                       
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg">  
     <img height='50em' src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"svg">
     <img height='50em' src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png">
