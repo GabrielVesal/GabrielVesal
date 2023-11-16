@@ -16,7 +16,6 @@
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/html-1.svg"svg">
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/css-3.svg">
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg">
-    <img height='50em' src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">   
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/c-1.svg"svg">
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/python-5.svg">                                                                                                                                                       
