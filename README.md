@@ -16,14 +16,13 @@
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/html-1.svg"svg">
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/css-3.svg">
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg">
+    <img height='50em' src="https://cdn.worldvectorlogo.com/logos/php-1.svg">
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">   
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/c-1.svg"svg">
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/c--4.svg">
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/python-5.svg">                                                                                                                                                       
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg">  
     <img height='50em' src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"svg">
-    <img height='50em' src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png">
-    <img height='50em' src="https://cdn.worldvectorlogo.com/logos/after-effects-1.svg"svg">
     <img height='50em' src="https://bendyworks.com/assets/images/blog/2020-05-21-setup-windows-development-eb5c79a7.png"> 
 
 
