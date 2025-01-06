@@ -16,6 +16,8 @@
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg"svg">
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"> 
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/c--4.svg"> 
+    <img height='50em' src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg"> 
+    <img height='50em' src="https://cdn.worldvectorlogo.com/logos/postman.svg"> 
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/azure-1.svg"svg"> 
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg"svg">  
     <img height='50em' src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"svg">
