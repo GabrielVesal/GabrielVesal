@@ -26,7 +26,7 @@
 
  ### Productivy
  <div>
-    <img height='50em' src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Microsoft_To-Do_icon.svg">
+    <img height='50em' src="https://cdn.worldvectorlogo.com/logos/notion-2.svg"svg">
 
   ### connect with me
 
