@@ -26,12 +26,11 @@
 
  ### Productivy
  <div>
-    <img height='50em' src="https://cdn.worldvectorlogo.com/logos/notion-2.svg"svg">
-
-  ### connect with me
-
+    <img height='50em' src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/notion.png"png">
 <div>
-  
+
+ ### Connect with me
+
   <a href="http://linkedin.com/in/gabrielvesal" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
  ###
