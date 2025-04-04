@@ -1,7 +1,7 @@
 ###    Welcome to my profile!  
  
  
-### As a Junior Fullstack Developer, with experience in SQL Server, C#, .NET, and AngularJS.
+### As a Fullstack Developer, with experience in SQL Server, C#, .NET, and AngularJS.
 
  <div>
      <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=GabrielVesal&show_icons=true&theme=dracula&count_private=true">
