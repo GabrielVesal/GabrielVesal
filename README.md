@@ -11,7 +11,7 @@
 
 
  
- ### Technologies
+ ### Main Technologies
 <div>
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg"svg">
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"> 
