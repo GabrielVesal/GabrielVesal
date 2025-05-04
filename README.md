@@ -1,6 +1,7 @@
 ### Bem-vindo ao meu perfil!
 
-### Sou Desenvolvedor Fullstack, com experiência em SQL Server, C#, .NET e AngularJS.
+### Sou Desenvolvedor .NET Backend [Full Stack], com experiência em C#, ASP.NET Core / MVC, SQL Server, JavaScript e AngularJS.
+### Aqui compartilho meus projetos e estudos enquanto sigo aprendendo e evoluindo como desenvolvedor.
 
 <div>
     <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=GabrielVesal&show_icons=true&theme=dracula&count_private=true">
