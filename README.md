@@ -5,15 +5,15 @@
 
 <div>
     <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=GabrielVesal&show_icons=true&theme=dracula&count_private=true">
-    <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=GabrielVesal&layout=compact&theme=dracula">
+    <!--<img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=GabrielVesal&layout=compact&theme=dracula"> -->
 </div>
 
 ### Tecnologias Principais
 
 <div>
-    <img height='50em' src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg">
-    <img height='50em' src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"> 
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/c--4.svg"> 
+    <img height='50em' src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"> 
+    <img height='50em' src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg">
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg"> 
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/postman.svg"> 
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/azure-1.svg"> 
