@@ -1,6 +1,6 @@
 ### Bem-vindo ao meu perfil!
 
-### Sou Desenvolvedor .NET Backend [Full Stack], com experiência em C#, ASP.NET Core / MVC, SQL Server, JavaScript e AngularJS.
+### Sou Desenvolvedor Backend [Full Stack], com experiência em .Net ,C#, ASP.NET Core / MVC, SQL Server, JavaScript e AngularJS.
 ### Aqui compartilho meus projetos e estudos enquanto sigo aprendendo e evoluindo como desenvolvedor.
 
 <div>
