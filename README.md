@@ -19,6 +19,7 @@
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/azure-1.svg"> 
     <img height='50em' src="https://cdn.worldvectorlogo.com/logos/visual-studio-2013.svg">  
     <img height='50em' src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png">
+    <img height='50em' src="https://cdn.worldvectorlogo.com/logos/docker-4.svg"> 
 </div>
 
 ### Produtividade
