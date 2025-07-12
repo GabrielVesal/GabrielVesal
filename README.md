@@ -1,7 +1,8 @@
 ### Bem-vindo ao meu perfil!
 
-### Sou Desenvolvedor Backend [Full Stack], com experiência em .Net , C#, ASP.NET Core / MVC, SQL Server, JavaScript e Angular.
+### Sou Desenvolvedor .NET Full Stack com foco em backend, apaixonado por criar soluções que geram impacto real.
 ### Aqui compartilho meus projetos e estudos enquanto sigo aprendendo e evoluindo como desenvolvedor.
+### Sinta-se à vontade para explorar os repositórios, acompanhar meu progresso ou trocar ideias!
 
 <div>
     <img height="150em" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=GabrielVesal&show_icons=true&theme=dracula&count_private=true">
