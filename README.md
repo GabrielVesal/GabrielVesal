@@ -1,6 +1,6 @@
 ### Bem-vindo ao meu perfil!
 
-### Sou Desenvolvedor .NET Full Stack com foco em backend, apaixonado por criar soluções que geram impacto real.
+### Sou Desenvolvedor Full Stack com foco em backend, apaixonado por criar soluções que geram impacto real.
 ### Aqui compartilho meus projetos e estudos enquanto sigo aprendendo e evoluindo como desenvolvedor.
 ### Sinta-se à vontade para explorar os repositórios, acompanhar meu progresso ou trocar ideias!
 
