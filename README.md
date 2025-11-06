@@ -34,7 +34,10 @@
 
 <div>
     <img height='50em' src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/notion.png">
+        <img height='50em' src="https://obsidian.md/images/obsidian-logo-gradient.svg">
+
 </div>
+
 
 ### Conecte-se comigo
 
