@@ -13,7 +13,7 @@
 
 <div>
   <img height='50em' src="https://cdn.worldvectorlogo.com/logos/c--4.svg" alt="C#"> 
-  <img height='50em' src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" alt="JavaScript"> 
+  <img height='50em' src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript"> 
   <img height='50em' src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg" alt=".NET"> 
   <img height='50em' src="https://cdn.worldvectorlogo.com/logos/angular-icon-1.svg" alt="Angular"> 
   <img height='50em' src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" alt="SQL Server"> 
